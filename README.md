@@ -77,4 +77,4 @@ $ npm run typeorm:migration:revert
 
 ## Testing
 
-You can import postman collection for testing main endpoint from folder __postman-collection__
+You can import postman collection for testing main endpoint from folder **postman-collection**
