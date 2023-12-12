@@ -18,6 +18,10 @@ Install docker and docker-compose
 git clone https://github.com/MIGHOST/nest-for-auth
 ```
 
+```bash
+cd ./nest-for-auth
+```
+
 2. Install `node modules` dependencies via Npm:
 
 ```bash
