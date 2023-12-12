@@ -15,7 +15,7 @@ Install docker and docker-compose
 1. Clone the repository and move to the project dir (for this step you may
   
 ```bash
-git clone 
+git clone https://github.com/MIGHOST/nest-for-auth
 ```
 
 2. Install `node modules` dependencies via Npm:
@@ -54,9 +54,6 @@ $ npm run start:dev
 # debug mode
 $ npm run start:debug
 
-# production mode
-$ npm run build 
-$ node dist/
 ```
 ## Migrations
 
