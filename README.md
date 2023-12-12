@@ -78,3 +78,9 @@ $ npm run typeorm:migration:revert
 ## Testing
 
 You can import postman collection for testing main endpoint from folder **postman-collection**
+
+## Recommendations 
+
+If you plan to use the service in interaction with the frontend, comment out the code responsible for launching the service in the * *docker-compose.yml* * file.
+
+
